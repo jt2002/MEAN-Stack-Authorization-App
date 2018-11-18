@@ -12,7 +12,7 @@ Codes of MEAN stack (MongoDB-Express-Node-Angular6) of Traversy Media's YouTube 
 Update confi/database.js for the database in mLab, i.e.
 
 ```
-mongoURI: 'mongodb://abcdefg:abcdefg@ds215961.mlab.com:15961/meanauth-dev'
+mongoURI: 'mongodb://abcdefg:abcdefg@ds123456.mlab.com:56789/meanauth-dev'
 ```
 
 ### Upload to Heroku
