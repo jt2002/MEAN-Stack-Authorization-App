@@ -17,8 +17,6 @@ mongoURI: 'mongodb://abcdefg:abcdefg@ds123456.mlab.com:56789/meanauth-dev'
 
 ### Upload to Heroku
 
-Note the URL when running ```heroku create```
-
 ```
 git init
 git add .
