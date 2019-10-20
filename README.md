@@ -1,4 +1,4 @@
-# meanauthapp
+# MEAN Stack Authorization App
 Codes of MEAN stack (MongoDB-Express-Node-Angular6) of Traversy Media's YouTube tutorial "MEAN Stack Front To Back"
 
 ### Requirements
