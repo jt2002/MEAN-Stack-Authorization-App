@@ -1,5 +1,5 @@
 # MEAN Stack Authorization App
-Sample MEAN stack app (MongoDB-Express-Node-Angular6)
+Sample MEAN stack app (MongoDB-Express-Node-Angular6) deployed on Heroku
 
 Ref: Traversy Media's YouTube tutorial "MEAN Stack Front To Back"
 
