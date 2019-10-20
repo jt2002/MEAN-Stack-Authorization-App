@@ -29,6 +29,4 @@ git push heroku master
 
 ### Sample Live App
 
-```
 [URL: https://infinite-springs-40564.herokuapp.com](https://infinite-springs-40564.herokuapp.com)
-```
